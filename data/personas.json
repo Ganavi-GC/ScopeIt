@@ -1,0 +1,47 @@
+[
+  {
+    "id": "software_engineer",
+    "name": "Software Engineer",
+    "description": "A creative problem-solver who designs, develops, and maintains software applications.",
+    "timeline_template": [
+      {"time":"09:00","title":"Morning Standup","description":"Engineer syncs tasks with team.","visual_prompt":"anime-style office meeting, diverse team, whiteboard with diagrams","media_type":"image"},
+      {"time":"10:00","title":"Coding Session","description":"Focused work on a new feature.","visual_prompt":"anime-style developer coding at a desk, multiple monitors, vibrant colors","media_type":"image"},
+      {"time":"12:00","title":"Code Review","description":"Reviewing a colleague's pull request.","visual_prompt":"realistic hands on keyboard, code on screen, collaborative environment","media_type":"image"},
+      {"time":"13:00","title":"Lunch Break","description":"Casual meal with teammates.","visual_prompt":"anime-style cafeteria, people chatting and eating, bright and friendly atmosphere","media_type":"image"},
+      {"time":"14:00","title":"Debugging a Bug","description":"Troubleshooting an unexpected issue.","visual_prompt":"realistic developer looking intently at code, frustrated but determined, dark mode IDE","media_type":"image"},
+      {"time":"16:00","title":"Design Meeting","description":"Discussing architecture for future features.","visual_prompt":"anime-style meeting room, people brainstorming with sticky notes and diagrams","media_type":"image"},
+      {"time":"17:00","title":"Learning New Tech","description":"Exploring a new library or framework.","visual_prompt":"realistic developer reading documentation, surrounded by tech books, inspired look","media_type":"image"}
+    ]
+  },
+  {
+    "id": "data_scientist",
+    "name": "Data Scientist",
+    "description": "Extracts insights from data to inform business decisions.",
+    "timeline_template": [
+      {"time":"09:00","title":"Data Collection & Cleaning","description":"Gathering and preparing datasets.","visual_prompt":"realistic person cleaning data on a computer, messy datasets on screen","media_type":"image"},
+      {"time":"10:30","title":"Model Development","description":"Building and training machine learning models.","visual_prompt":"anime-style data scientist interacting with complex graphs and code, futuristic lab","media_type":"image"},
+      {"time":"12:30","title":"Lunch & Learn","description":"Discussing new research papers.","visual_prompt":"realistic group of data scientists eating lunch and discussing papers, engaged expressions","media_type":"image"},
+      {"time":"13:30","title":"Data Visualization","description":"Creating charts and dashboards.","visual_prompt":"anime-style person creating beautiful data visualizations, colorful and dynamic dashboard","media_type":"image"},
+      {"time":"15:00","title":"Presentation Prep","description":"Preparing findings for stakeholders.","visual_prompt":"realistic data scientist rehearsing a presentation, slides with insights","media_type":"image"},
+      {"time":"16:30","title":"Team Sync","description":"Aligning on project progress.","visual_prompt":"anime-style team meeting, everyone contributing ideas, collaborative atmosphere","media_type":"image"},
+      {"time":"17:30","title":"Research & Exploration","description":"Staying updated with new techniques.","visual_prompt":"realistic person reading scientific papers, surrounded by books and articles, thoughtful expression","media_type":"image"}
+    ]
+  },
+  {
+    "id": "ux_designer",
+    "name": "UX Designer",
+    "description": "Focuses on user experience and interface design, ensuring products are intuitive and enjoyable.",
+    "timeline_template": [
+      {"time":"09:00","title":"User Research Review","description":"Analyzing user feedback and insights.","visual_prompt":"realistic UX designer analyzing user interview notes and heatmaps, empathetic expression","media_type":"image"},
+      {"time":"10:30","title":"Wireframing Session","description":"Sketching initial layouts and user flows.","visual_prompt":"anime-style UX designer sketching wireframes on a tablet, creative flow, clean design tools","media_type":"image"},
+      {"time":"12:00","title":"Design Critique","description":"Receiving feedback on designs from peers.","visual_prompt":"realistic team providing constructive feedback on a design, collaborative and open environment","media_type":"image"},
+      {"time":"13:00","title":"Lunch Break","description":"Inspiration walk.","visual_prompt":"anime-style UX designer walking in a park, observing people and environment, generating ideas","media_type":"image"},
+      {"time":"14:00","title":"Prototyping a Feature","description":"Creating interactive mockups.","visual_prompt":"realistic hands creating an interactive prototype on a design tool, attention to detail","media_type":"image"},
+      {"time":"16:00","title":"Stakeholder Presentation","description":"Presenting designs to product owners.","visual_prompt":"anime-style UX designer presenting designs to a group, confident and engaging","media_type":"image"},
+      {"time":"17:00","title":"Usability Testing Prep","description":"Setting up for user testing sessions.","visual_prompt":"realistic UX designer preparing a usability testing lab, setting up cameras and recording software","media_type":"image"}
+    ]
+  }
+]
+
+
+

@@ -1,0 +1,89 @@
+{
+  "name": "career-advisor-hackathon",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "name": "quiz_api",
+      "description": "Handles skill and psychology quiz (MBTI, OCEAN) for users.",
+      "type": "http",
+      "config": {
+        "baseUrl": "http://127.0.0.1:8000/quiz",
+        "endpoints": {
+          "submit": {
+            "method": "POST",
+            "path": "/submit",
+            "input": {
+              "answers": "list of user answers"
+            },
+            "output": {
+              "score": "object with MBTI and OCEAN results"
+            }
+          },
+          "results": {
+            "method": "GET",
+            "path": "/results/{userId}"
+          }
+        }
+      }
+    },
+    {
+      "name": "career_generator",
+      "description": "Generates career recommendations based on skills, personality, and goals.",
+      "type": "http",
+      "config": {
+        "baseUrl": "http://127.0.0.1:8000/career",
+        "endpoints": {
+          "recommend": {
+            "method": "POST",
+            "path": "/recommend",
+            "input": {
+              "skills": "list of skills",
+              "personality": "MBTI + OCEAN traits",
+              "goals": "career aspirations"
+            },
+            "output": {
+              "recommendations": "list of suggested career paths with descriptions"
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "emerging_tech_feed",
+      "description": "Fetches trending and emerging technologies for student awareness.",
+      "type": "http",
+      "config": {
+        "baseUrl": "http://127.0.0.1:8000/emerging-tech",
+        "endpoints": {
+          "trending": {
+            "method": "GET",
+            "path": "/trending",
+            "output": {
+              "topics": "list of trending technologies with descriptions"
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "simulation_engine",
+      "description": "Simulates a 'day in the life' experience for different careers.",
+      "type": "http",
+      "config": {
+        "baseUrl": "http://127.0.0.1:8000/simulate",
+        "endpoints": {
+          "career_day": {
+            "method": "POST",
+            "path": "/{career}",
+            "input": {
+              "career": "string (e.g., Data Scientist, Game Developer)"
+            },
+            "output": {
+              "simulation": "narrative experience of a day in that career"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

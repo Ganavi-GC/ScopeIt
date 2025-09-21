@@ -1,0 +1,517 @@
+{
+  "software_engineer": {
+    "title": "Software Engineer",
+    "description": "A skilled software developer working on innovative web applications.",
+    "skills": ["Programming", "Problem Solving", "Data Structures", "Algorithms"],
+    "salaryRange": "$85,000 - $150,000",
+    "growth": "Excellent",
+    "events_template": [
+      {"time":"09:00","title":"Morning Standup","description":"Daily team sync-up, discussing tasks and blockers.","visual_prompt":"anime-style office meeting, diverse team, whiteboard with agile tasks","media_type":"image","media_url":"https://picsum.photos/seed/software_engineer_standup/400/300"},
+      {"time":"10:00","title":"Coding Session","description":"Deep work on a new feature, writing clean and efficient code.","visual_prompt":"anime-style developer coding at a desk with multiple monitors, focused expression, lines of code on screen","media_type":"image","media_url":"https://picsum.photos/seed/software_engineer_coding/400/300"},
+      {"time":"12:30","title":"Team Lunch","description":"Casual discussion with colleagues over lunch.","visual_prompt":"anime-style office cafeteria, colleagues chatting and laughing","media_type":"image","media_url":"https://picsum.photos/seed/software_engineer_lunch/400/300"},
+      {"time":"14:00","title":"Code Review","description":"Reviewing a teammate's pull request, providing constructive feedback.","visual_prompt":"anime-style developers collaborating on code review, side-by-side, pointing at screen","media_type":"image","media_url":"https://picsum.photos/seed/software_engineer_codereview/400/300"},
+      {"time":"15:30","title":"Debugging a Bug","description":"Troubleshooting a complex issue in the application.","visual_prompt":"anime-style developer looking frustrated at a screen full of error messages, coffee cup nearby","media_type":"image","media_url":"https://picsum.photos/seed/software_engineer_debugging/400/300"},
+      {"time":"17:00","title":"Feature Demo","description":"Presenting the newly developed feature to stakeholders.","visual_prompt":"anime-style presentation room, developer confidently showing a new feature on a large screen to a small audience","media_type":"image","media_url":"https://picsum.photos/seed/software_engineer_demo/400/300"},
+      {"time":"18:00","title":"Learning New Tech","description":"Exploring new technologies and frameworks for personal growth.","visual_prompt":"anime-style developer reading documentation, surrounded by holographic displays of code and diagrams","media_type":"image","media_url":"https://picsum.photos/seed/software_engineer_learning/400/300"}
+    ],
+    "trends": {
+      "salary": [
+        {"year": 2020, "value": 85000},
+        {"year": 2021, "value": 90000},
+        {"year": 2022, "value": 95000},
+        {"year": 2023, "value": 100000},
+        {"year": 2024, "value": 110000},
+        {"year": 2025, "value": 120000}
+      ],
+      "demand": [
+        {"year": 2020, "value": 80000},
+        {"year": 2021, "value": 85000},
+        {"year": 2022, "value": 90000},
+        {"year": 2023, "value": 95000},
+        {"year": 2024, "value": 100000},
+        {"year": 2025, "value": 105000}
+      ],
+      "security": [
+        {"year": 2020, "value": 85},
+        {"year": 2021, "value": 86},
+        {"year": 2022, "value": 88},
+        {"year": 2023, "value": 89},
+        {"year": 2024, "value": 90},
+        {"year": 2025, "value": 91}
+      ]
+    }
+  },
+  "data_scientist": {
+    "title": "Data Scientist",
+    "description": "An analytical mind extracting insights from vast datasets.",
+    "skills": ["Statistics", "Machine Learning", "Python", "SQL"],
+    "salaryRange": "$90,000 - $140,000",
+    "growth": "Excellent",
+    "events_template": [
+      {"time":"09:30","title":"Data Exploration","description":"Analyzing raw data to understand its structure and identify patterns.","visual_prompt":"anime-style data scientist at a desk with complex graphs and charts on multiple screens, deep in thought","media_type":"image","media_url":"https://picsum.photos/seed/data_scientist_exploration/400/300"},
+      {"time":"11:00","title":"Model Training","description":"Developing and training machine learning models.","visual_prompt":"anime-style data scientist interacting with a holographic display showing a neural network training, glowing data streams","media_type":"image","media_url":"https://picsum.photos/seed/data_scientist_training/400/300"},
+      {"time":"13:00","title":"Research Meeting","description":"Discussing research findings and strategies with the team.","visual_prompt":"anime-style meeting room, data scientists presenting findings with slides full of statistics and visualizations","media_type":"image","media_url":"https://picsum.photos/seed/data_scientist_research/400/300"},
+      {"time":"14:30","title":"Feature Engineering","description":"Creating new features from existing data to improve model performance.","visual_prompt":"anime-style data scientist transforming data, abstract visualizations of data manipulation","media_type":"image","media_url":"https://picsum.photos/seed/data_scientist_feature/400/300"},
+      {"time":"16:00","title":"Dashboard Creation","description":"Building interactive dashboards to visualize key metrics and insights.","visual_prompt":"anime-style data scientist designing a dashboard with drag-and-drop interfaces, colorful charts coming to life","media_type":"image","media_url":"https://picsum.photos/seed/data_scientist_dashboard/400/300"},
+      {"time":"17:30","title":"Presenting Insights","description":"Communicating complex data insights to non-technical stakeholders.","visual_prompt":"anime-style data scientist confidently explaining insights to a business team, charts and graphs illustrating points","media_type":"image","media_url":"https://picsum.photos/seed/data_scientist_presentation/400/300"}
+    ],
+    "trends": {
+      "salary": [
+        {"year": 2020, "value": 90000},
+        {"year": 2021, "value": 95000},
+        {"year": 2022, "value": 100000},
+        {"year": 2023, "value": 110000},
+        {"year": 2024, "value": 120000},
+        {"year": 2025, "value": 130000}
+      ],
+      "demand": [
+        {"year": 2020, "value": 70000},
+        {"year": 2021, "value": 75000},
+        {"year": 2022, "value": 80000},
+        {"year": 2023, "value": 85000},
+        {"year": 2024, "value": 90000},
+        {"year": 2025, "value": 95000}
+      ],
+      "security": [
+        {"year": 2020, "value": 88},
+        {"year": 2021, "value": 89},
+        {"year": 2022, "value": 90},
+        {"year": 2023, "value": 91},
+        {"year": 2024, "value": 92},
+        {"year": 2025, "value": 93}
+      ]
+    }
+  },
+  "ux_designer": {
+    "title": "UX Designer",
+    "description": "A creative professional focused on crafting intuitive and delightful user experiences.",
+    "skills": ["UI/UX Principles", "Wireframing", "Prototyping", "User Research"],
+    "salaryRange": "$75,000 - $120,000",
+    "growth": "Good",
+    "events_template": [
+      {"time":"09:00","title":"User Research Review","description":"Reviewing user interview transcripts and survey results to understand user needs.","visual_prompt":"anime-style UX designer analyzing user research data on a tablet, sticky notes with user feedback around","media_type":"image","media_url":"https://picsum.photos/seed/ux_designer_research/400/300"},
+      {"time":"10:30","title":"Wireframing Session","description":"Sketching low-fidelity wireframes for a new feature.","visual_prompt":"anime-style UX designer rapidly sketching wireframes on a digital canvas, ideas flowing","media_type":"image","media_url":"https://picsum.photos/seed/ux_designer_wireframing/400/300"},
+      {"time":"12:00","title":"Design Critique","description":"Receiving feedback on designs from fellow designers.","visual_prompt":"anime-style design studio, designers discussing a UI prototype on a large screen, constructive criticism","media_type":"image","media_url":"https://picsum.photos/seed/ux_designer_critique/400/300"},
+      {"time":"13:30","title":"Prototyping Interaction","description":"Creating interactive prototypes to test user flows.","visual_prompt":"anime-style UX designer meticulously crafting an interactive prototype, seamless animations on screen","media_type":"image","media_url":"https://picsum.photos/seed/ux_designer_prototyping/400/300"},
+      {"time":"15:00","title":"Usability Testing","description":"Observing users interacting with a prototype to identify pain points.","visual_prompt":"anime-style user in a usability testing lab, UX designer observing from behind a one-way mirror, taking notes","media_type":"image","media_url":"https://picsum.photos/seed/ux_designer_usability/400/300"},
+      {"time":"16:30","title":"Iteration and Refinement","description":"Applying insights from testing to refine design solutions.","visual_prompt":"anime-style UX designer making precise adjustments to a UI design, a look of thoughtful concentration","media_type":"image","media_url":"https://picsum.photos/seed/ux_designer_iteration/400/300"},
+      {"time":"17:30","title":"Stakeholder Presentation","description":"Presenting finalized designs to project stakeholders.","visual_prompt":"anime-style presentation, UX designer confidently showcasing final designs to a team, positive reactions","media_type":"image","media_url":"https://picsum.photos/seed/ux_designer_presentation/400/300"}
+    ],
+    "trends": {
+      "salary": [
+        {"year": 2020, "value": 75000},
+        {"year": 2021, "value": 78000},
+        {"year": 2022, "value": 80000},
+        {"year": 2023, "value": 85000},
+        {"year": 2024, "value": 90000},
+        {"year": 2025, "value": 95000}
+      ],
+      "demand": [
+        {"year": 2020, "value": 60000},
+        {"year": 2021, "value": 62000},
+        {"year": 2022, "value": 65000},
+        {"year": 2023, "value": 68000},
+        {"year": 2024, "value": 70000},
+        {"year": 2025, "value": 72000}
+      ],
+      "security": [
+        {"year": 2020, "value": 80},
+        {"year": 2021, "value": 81},
+        {"year": 2022, "value": 83},
+        {"year": 2023, "value": 84},
+        {"year": 2024, "value": 85},
+        {"year": 2025, "value": 86}
+      ]
+    }
+  },
+  "technical_writer": {
+    "title": "Technical Writer",
+    "description": "Technical writers create documentation for software, hardware, or other technical products. They explain complex information clearly and concisely for a target audience.",
+    "skills": ["Technical Writing", "Communication", "Documentation", "Attention to Detail"],
+    "salaryRange": "$60,000 - $95,000",
+    "growth": "Average",
+    "events_template": [
+      {"time":"09:00","title":"Research and Planning","description":"Gathering information and planning documentation structure.","visual_prompt":"anime-style technical writer at a desk, researching on computer, surrounded by notes and diagrams","media_type":"image","media_url":"https://picsum.photos/seed/technical_writer_research/400/300"},
+      {"time":"10:30","title":"Drafting Content","description":"Writing clear and concise technical content.","visual_prompt":"anime-style technical writer typing on a keyboard, code and text on screen, focused expression","media_type":"image","media_url":"https://picsum.photos/seed/technical_writer_drafting/400/300"},
+      {"time":"12:00","title":"Team Review","description":"Collaborating with engineers and product managers for content review.","visual_prompt":"anime-style team reviewing a document on a large screen, discussions and feedback","media_type":"image","media_url":"https://picsum.photos/seed/technical_writer_review/400/300"},
+      {"time":"14:00","title":"Editing and Proofreading","description":"Refining content for accuracy, clarity, and grammar.","visual_prompt":"anime-style technical writer meticulously editing a document on screen, magnifying glass icon","media_type":"image","media_url":"https://picsum.photos/seed/technical_writer_editing/400/300"},
+      {"time":"15:30","title":"Tooling and Publishing","description":"Using documentation tools to publish content to various platforms.","visual_prompt":"anime-style technical writer working with a documentation tool, publishing icon on screen","media_type":"image","media_url":"https://picsum.photos/seed/technical_writer_publishing/400/300"}
+    ],
+    "trends": {
+      "salary": [
+        {"year": 2020, "value": 60000},
+        {"year": 2021, "value": 62000},
+        {"year": 2022, "value": 65000},
+        {"year": 2023, "value": 68000},
+        {"year": 2024, "value": 70000},
+        {"year": 2025, "value": 72000}
+      ],
+      "demand": [
+        {"year": 2020, "value": 15000},
+        {"year": 2021, "value": 14500},
+        {"year": 2022, "value": 14000},
+        {"year": 2023, "value": 13500},
+        {"year": 2024, "value": 13000},
+        {"year": 2025, "value": 12500}
+      ],
+      "security": [
+        {"year": 2020, "value": 70},
+        {"year": 2021, "value": 68},
+        {"year": 2022, "value": 65},
+        {"year": 2023, "value": 63},
+        {"year": 2024, "value": 60},
+        {"year": 2025, "value": 58}
+      ]
+    }
+  },
+  "blockchain_developer": {
+    "title": "Blockchain Developer",
+    "description": "Builds and maintains decentralized applications and smart contracts.",
+    "skills": ["Blockchain", "Cryptography", "Solidity"],
+    "salaryRange": "$100,000 - $180,000",
+    "growth": "Excellent",
+    "events_template": [
+      {"time":"09:00","title":"Smart Contract Development","description":"Writing and testing smart contracts on a blockchain platform.","visual_prompt":"anime-style developer writing smart contracts, glowing code on screen, blockchain symbols","media_type":"image","media_url":"https://picsum.photos/seed/blockchain_developer_contract/400/300"},
+      {"time":"11:00","title":"Decentralized App (dApp) Design","description":"Designing the architecture for decentralized applications.","visual_prompt":"anime-style developer designing dApp UI, interconnected nodes and blockchain network visualization","media_type":"image","media_url":"https://picsum.photos/seed/blockchain_developer_dapp/400/300"},
+      {"time":"13:00","title":"Security Audit","description":"Conducting security audits of smart contracts and blockchain solutions.","visual_prompt":"anime-style developer meticulously auditing smart contract code, magnifying glass on vulnerabilities","media_type":"image","media_url":"https://picsum.photos/seed/blockchain_developer_audit/400/300"},
+      {"time":"15:00","title":"Consensus Mechanism Research","description":"Researching and implementing different blockchain consensus mechanisms.","visual_prompt":"anime-style developer studying complex consensus algorithms, flowcharts and diagrams","media_type":"image","media_url":"https://picsum.photos/seed/blockchain_developer_consensus/400/300"},
+      {"time":"17:00","title":"Community Collaboration","description":"Collaborating with the blockchain developer community on open-source projects.","visual_prompt":"anime-style developers collaborating online, code sharing and discussion forums, blockchain logos","media_type":"image","media_url":"https://picsum.photos/seed/blockchain_developer_collaboration/400/300"}
+    ],
+    "trends": {
+      "salary": [
+        {"year": 2020, "value": 100000},
+        {"year": 2021, "value": 110000},
+        {"year": 2022, "value": 120000},
+        {"year": 2023, "value": 130000},
+        {"year": 2024, "value": 140000},
+        {"year": 2025, "value": 150000}
+      ],
+      "demand": [
+        {"year": 2020, "value": 10000},
+        {"year": 2021, "value": 12000},
+        {"year": 2022, "value": 14000},
+        {"year": 2023, "value": 16000},
+        {"year": 2024, "value": 18000},
+        {"year": 2025, "value": 20000}
+      ],
+      "security": [
+        {"year": 2020, "value": 80},
+        {"year": 2021, "value": 82},
+        {"year": 2022, "value": 85},
+        {"year": 2023, "value": 87},
+        {"year": 2024, "value": 89},
+        {"year": 2025, "value": 90}
+      ]
+    }
+  },
+  "quantum_computing_engineer": {
+    "title": "Quantum Computing Engineer",
+    "description": "Develops and maintains quantum computing systems.",
+    "skills": ["Quantum Physics", "Programming", "Algorithms"],
+    "salaryRange": "$120,000 - $200,000",
+    "growth": "Excellent",
+    "events_template": [
+      {"time":"09:00","title":"Quantum Algorithm Design","description":"Designing algorithms for quantum computers.","visual_prompt":"anime-style scientist designing quantum algorithms on a holographic interface, swirling quantum particles","media_type":"image","media_url":"https://picsum.photos/seed/quantum_engineer_design/400/300"},
+      {"time":"11:00","title":"Quantum Hardware Experimentation","description":"Conducting experiments on quantum computing hardware.","visual_prompt":"anime-style scientist in a futuristic lab, interacting with complex quantum computing machinery, glowing circuits","media_type":"image","media_url":"https://picsum.photos/seed/quantum_engineer_hardware/400/300"},
+      {"time":"13:00","title":"Quantum Software Development","description":"Developing software and tools for quantum programming.","visual_prompt":"anime-style developer coding quantum programs, intricate quantum logic gates on screen","media_type":"image","media_url":"https://picsum.photos/seed/quantum_engineer_software/400/300"},
+      {"time":"15:00","title":"Theoretical Research","description":"Engaging in theoretical research to advance quantum computing.","visual_prompt":"anime-style scientist in a library, surrounded by advanced physics books and equations, deep in thought","media_type":"image","media_url":"https://picsum.photos/seed/quantum_engineer_research/400/300"},
+      {"time":"17:00","title":"Collaboration with Physicists","description":"Collaborating with quantum physicists on new breakthroughs.","visual_prompt":"anime-style scientists collaborating, discussing complex quantum theories on a whiteboard","media_type":"image","media_url":"https://picsum.photos/seed/quantum_engineer_collaboration/400/300"}
+    ],
+    "trends": {
+      "salary": [
+        {"year": 2020, "value": 120000},
+        {"year": 2021, "value": 130000},
+        {"year": 2022, "value": 140000},
+        {"year": 2023, "value": 150000},
+        {"year": 2024, "value": 170000},
+        {"year": 2025, "value": 190000}
+      ],
+      "demand": [
+        {"year": 2020, "value": 2000},
+        {"year": 2021, "value": 2500},
+        {"year": 2022, "value": 3500},
+        {"year": 2023, "value": 4500},
+        {"year": 2024, "value": 6000},
+        {"year": 2025, "value": 8000}
+      ],
+      "security": [
+        {"year": 2020, "value": 90},
+        {"year": 2021, "value": 91},
+        {"year": 2022, "value": 92},
+        {"year": 2023, "value": 93},
+        {"year": 2024, "value": 94},
+        {"year": 2025, "value": 95}
+      ]
+    }
+  },
+  "medical_coder": {
+    "title": "Medical Coder",
+    "description": "Medical coders translate medical diagnoses and procedures into standardized codes used for billing and insurance purposes. They ensure accurate medical record keeping and facilitate healthcare financial processes.",
+    "skills": ["Medical Terminology", "ICD-10 Coding", "CPT Coding", "Data Entry", "Attention to Detail"],
+    "salaryRange": "$40,000 - $60,000",
+    "growth": "Average",
+    "events_template": [
+      {"time":"09:00","title":"Review Medical Records","description":"Analyzing patient charts and documentation.","visual_prompt":"realistic medical coder reviewing digital patient records, multiple screens, focused expression","media_type":"image","media_url":"https://picsum.photos/seed/medical_coder_records/400/300"},
+      {"time":"10:30","title":"Assign ICD-10 Codes","description":"Assigning appropriate ICD-10 diagnosis codes.","visual_prompt":"realistic medical coder entering codes into a system, medical codebook open nearby","media_type":"image","media_url":"https://picsum.photos/seed/medical_coder_icd10/400/300"},
+      {"time":"12:00","title":"Lunch Break","description":"Taking a lunch break.","visual_prompt":"realistic office break room, diverse colleagues chatting","media_type":"image","media_url":"https://picsum.photos/seed/medical_coder_lunch/400/300"},
+      {"time":"13:00","title":"Assign CPT Codes","description":"Assigning appropriate CPT procedure codes.","visual_prompt":"realistic medical coder using CPT coding software, hands on keyboard","media_type":"image","media_url":"https://picsum.photos/seed/medical_coder_cpt/400/300"},
+      {"time":"14:30","title":"Query Physicians","description":"Querying physicians for clarification on documentation.","visual_prompt":"realistic medical coder speaking with a doctor in a hospital setting, clarifying patient notes","media_type":"image","media_url":"https://picsum.photos/seed/medical_coder_query/400/300"},
+      {"time":"16:00","title":"Billing and Reimbursement","description":"Ensuring accurate coding for billing and reimbursement.","visual_prompt":"realistic medical coder reviewing billing statements, financial documents on screen","media_type":"image","media_url":"https://picsum.photos/seed/medical_coder_billing/400/300"}
+    ],
+    "trends": {
+      "salary": [
+        {"year": 2020, "value": 40000},
+        {"year": 2021, "value": 42000},
+        {"year": 2022, "value": 45000},
+        {"year": 2023, "value": 48000},
+        {"year": 2024, "value": 50000},
+        {"year": 2025, "value": 52000}
+      ],
+      "demand": [
+        {"year": 2020, "value": 25000},
+        {"year": 2021, "value": 26000},
+        {"year": 2022, "value": 27000},
+        {"year": 2023, "value": 28000},
+        {"year": 2024, "value": 29000},
+        {"year": 2025, "value": 30000}
+      ],
+      "security": [
+        {"year": 2020, "value": 80},
+        {"year": 2021, "value": 81},
+        {"year": 2022, "value": 82},
+        {"year": 2023, "value": 83},
+        {"year": 2024, "value": 84},
+        {"year": 2025, "value": 85}
+      ]
+    }
+  },
+  "ai_ethicist": {
+    "title": "AI Ethicist",
+    "description": "Ensures AI development aligns with ethical principles.",
+    "skills": ["Ethics", "AI/ML", "Policy"],
+    "salaryRange": "$90,000 - $150,000",
+    "growth": "Excellent",
+    "events_template": [
+      {"time":"09:00","title":"Ethical AI Review","description":"Reviewing AI models for fairness and bias.","visual_prompt":"anime-style AI ethicist examining code for ethical implications, glowing lines of ethical guidelines","media_type":"image","media_url":"https://picsum.photos/seed/ai_ethicist_review/400/300"},
+      {"time":"11:00","title":"Policy Development","description":"Developing policies for responsible AI deployment.","visual_prompt":"anime-style AI ethicist writing policy documents, legal texts and AI symbols merging","media_type":"image","media_url":"https://picsum.photos/seed/ai_ethicist_policy/400/300"},
+      {"time":"13:00","title":"Public Outreach","description":"Educating the public on AI ethics.","visual_prompt":"anime-style AI ethicist giving a public lecture on AI ethics, diverse audience engaged","media_type":"image","media_url":"https://picsum.photos/seed/ai_ethicist_outreach/400/300"}
+    ],
+    "trends": {
+      "salary": [
+        {"year": 2020, "value": 90000},
+        {"year": 2021, "value": 95000},
+        {"year": 2022, "value": 100000},
+        {"year": 2023, "value": 110000},
+        {"year": 2024, "value": 120000},
+        {"year": 2025, "value": 130000}
+      ],
+      "demand": [
+        {"year": 2020, "value": 5000},
+        {"year": 2021, "value": 6000},
+        {"year": 2022, "value": 7000},
+        {"year": 2023, "value": 8000},
+        {"year": 2024, "value": 9000},
+        {"year": 2025, "value": 10000}
+      ],
+      "security": [
+        {"year": 2020, "value": 85},
+        {"year": 2021, "value": 87},
+        {"year": 2022, "value": 88},
+        {"year": 2023, "value": 90},
+        {"year": 2024, "value": 91},
+        {"year": 2025, "value": 92}
+      ]
+    }
+  },
+  "cybersecurity_analyst": {
+    "title": "Cybersecurity Analyst",
+    "description": "Protects computer systems and networks from cyber threats.",
+    "skills": ["Network Security", "Penetration Testing", "Incident Response"],
+    "salaryRange": "$80,000 - $130,000",
+    "growth": "Very Good",
+    "events_template": [
+      {"time":"09:00","title":"Vulnerability Scan","description":"Conducting scans to identify security weaknesses.","visual_prompt":"realistic cybersecurity analyst running vulnerability scans, network diagrams on screen, alert icons","media_type":"image","media_url":"https://picsum.photos/seed/cybersecurity_scan/400/300"},
+      {"time":"10:30","title":"Incident Response","description":"Responding to security breaches and incidents.","visual_prompt":"realistic cybersecurity analyst working on an incident, frantic typing, red alerts on screen","media_type":"image","media_url":"https://picsum.photos/seed/cybersecurity_incident/400/300"},
+      {"time":"12:00","title":"Security Patching","description":"Applying security patches and updates.","visual_prompt":"realistic cybersecurity analyst deploying patches, green checkmarks on screen","media_type":"image","media_url":"https://picsum.photos/seed/cybersecurity_patching/400/300"}
+    ],
+    "trends": {
+      "salary": [
+        {"year": 2020, "value": 80000},
+        {"year": 2021, "value": 85000},
+        {"year": 2022, "value": 90000},
+        {"year": 2023, "value": 95000},
+        {"year": 2024, "value": 100000},
+        {"year": 2025, "value": 105000}
+      ],
+      "demand": [
+        {"year": 2020, "value": 40000},
+        {"year": 2021, "value": 45000},
+        {"year": 2022, "value": 50000},
+        {"year": 2023, "value": 55000},
+        {"year": 2024, "value": 60000},
+        {"year": 2025, "value": 65000}
+      ],
+      "security": [
+        {"year": 2020, "value": 90},
+        {"year": 2021, "value": 91},
+        {"year": 2022, "value": 92},
+        {"year": 2023, "value": 93},
+        {"year": 2024, "value": 94},
+        {"year": 2025, "value": 95}
+      ]
+    }
+  },
+  "cloud_architect": {
+    "title": "Cloud Architect",
+    "description": "Designs and implements cloud computing strategies.",
+    "skills": ["Cloud Platforms", "System Design", "Networking"],
+    "salaryRange": "$110,000 - $190,000",
+    "growth": "Excellent",
+    "events_template": [
+      {"time":"09:00","title":"Cloud Infrastructure Design","description":"Designing scalable and secure cloud infrastructure.","visual_prompt":"realistic cloud architect designing network diagrams, cloud symbols, data flow charts","media_type":"image","media_url":"https://picsum.photos/seed/cloud_architect_design/400/300"},
+      {"time":"11:00","title":"Cloud Migration Strategy","description":"Developing strategies for migrating applications to the cloud.","visual_prompt":"realistic cloud architect presenting migration plan to a team, cloud migration roadmap on screen","media_type":"image","media_url":"https://picsum.photos/seed/cloud_architect_migration/400/300"},
+      {"time":"13:00","title":"Cloud Security Implementation","description":"Implementing security best practices for cloud environments.","visual_prompt":"realistic cloud architect configuring security policies, firewall rules on screen","media_type":"image","media_url":"https://picsum.photos/seed/cloud_architect_security/400/300"}
+    ],
+    "trends": {
+      "salary": [
+        {"year": 2020, "value": 110000},
+        {"year": 2021, "value": 120000},
+        {"year": 2022, "value": 130000},
+        {"year": 2023, "value": 140000},
+        {"year": 2024, "value": 150000},
+        {"year": 2025, "value": 160000}
+      ],
+      "demand": [
+        {"year": 2020, "value": 30000},
+        {"year": 2021, "value": 35000},
+        {"year": 2022, "value": 40000},
+        {"year": 2023, "value": 45000},
+        {"year": 2024, "value": 50000},
+        {"year": 2025, "value": 55000}
+      ],
+      "security": [
+        {"year": 2020, "value": 90},
+        {"year": 2021, "value": 91},
+        {"year": 2022, "value": 92},
+        {"year": 2023, "value": 93},
+        {"year": 2024, "value": 94},
+        {"year": 2025, "value": 95}
+      ]
+    }
+  },
+  "devops_engineer": {
+    "title": "DevOps Engineer",
+    "description": "Streamlines software development and operations.",
+    "skills": ["CI/CD", "Scripting", "Cloud Infrastructure"],
+    "salaryRange": "$95,000 - $160,000",
+    "growth": "Excellent",
+    "events_template": [
+      {"time":"09:00","title":"Automating Deployments","description":"Automating continuous integration and continuous delivery pipelines.","visual_prompt":"realistic devops engineer configuring CI/CD pipeline, automated deployment flow on screen","media_type":"image","media_url":"https://picsum.photos/seed/devops_engineer_deploy/400/300"},
+      {"time":"11:00","title":"Infrastructure as Code","description":"Implementing infrastructure as code using tools like Terraform.","visual_prompt":"realistic devops engineer writing Terraform code, infrastructure diagrams","media_type":"image","media_url":"https://picsum.photos/seed/devops_engineer_iac/400/300"},
+      {"time":"13:00","title":"Monitoring and Logging","description":"Setting up monitoring and logging for applications in production.","visual_prompt":"realistic devops engineer reviewing dashboards, log data streams, alert notifications","media_type":"image","media_url":"https://picsum.photos/seed/devops_engineer_monitoring/400/300"}
+    ],
+    "trends": {
+      "salary": [
+        {"year": 2020, "value": 95000},
+        {"year": 2021, "value": 100000},
+        {"year": 2022, "value": 105000},
+        {"year": 2023, "value": 110000},
+        {"year": 2024, "value": 120000},
+        {"year": 2025, "value": 130000}
+      ],
+      "demand": [
+        {"year": 2020, "value": 35000},
+        {"year": 2021, "value": 40000},
+        {"year": 2022, "value": 45000},
+        {"year": 2023, "value": 50000},
+        {"year": 2024, "value": 55000},
+        {"year": 2025, "value": 60000}
+      ],
+      "security": [
+        {"year": 2020, "value": 88},
+        {"year": 2021, "value": 89},
+        {"year": 2022, "value": 90},
+        {"year": 2023, "value": 91},
+        {"year": 2024, "value": 92},
+        {"year": 2025, "value": 93}
+      ]
+    }
+  },
+  "machine_learning_engineer": {
+    "title": "Machine Learning Engineer",
+    "description": "Builds and deploys machine learning models.",
+    "skills": ["ML Algorithms", "Python", "Data Modeling"],
+    "salaryRange": "$100,000 - $170,000",
+    "growth": "Excellent",
+    "events_template": [
+      {"time":"09:00","title":"Model Development","description":"Developing and training machine learning models.","visual_prompt":"anime-style machine learning engineer coding, neural network visualization, data flowing","media_type":"image","media_url":"https://picsum.photos/seed/ml_engineer_model_dev/400/300"},
+      {"time":"11:00","title":"Model Deployment","description":"Deploying machine learning models to production.","visual_prompt":"anime-style machine learning engineer deploying model to cloud, server racks, glowing connections","media_type":"image","media_url":"https://picsum.photos/seed/ml_engineer_deployment/400/300"},
+      {"time":"13:00","title":"Model Monitoring","description":"Monitoring model performance and retraining.","visual_prompt":"anime-style machine learning engineer reviewing dashboards, model performance metrics, alert icons","media_type":"image","media_url":"https://picsum.photos/seed/ml_engineer_monitoring/400/300"}
+    ],
+    "trends": {
+      "salary": [
+        {"year": 2020, "value": 100000},
+        {"year": 2021, "value": 110000},
+        {"year": 2022, "value": 120000},
+        {"year": 2023, "value": 130000},
+        {"year": 2024, "value": 140000},
+        {"year": 2025, "value": 150000}
+      ],
+      "demand": [
+        {"year": 2020, "value": 20000},
+        {"year": 2021, "value": 22000},
+        {"year": 2022, "value": 24000},
+        {"year": 2023, "value": 26000},
+        {"year": 2024, "value": 28000},
+        {"year": 2025, "value": 30000}
+      ],
+      "security": [
+        {"year": 2020, "value": 90},
+        {"year": 2021, "value": 91},
+        {"year": 2022, "value": 92},
+        {"year": 2023, "value": 93},
+        {"year": 2024, "value": 94},
+        {"year": 2025, "value": 95}
+      ]
+    }
+  },
+  "full_stack_developer": {
+    "title": "Full Stack Developer",
+    "description": "Develops both front-end and back-end web applications.",
+    "skills": ["JavaScript", "React", "Node.js", "Databases"],
+    "salaryRange": "$85,000 - $150,000",
+    "growth": "Excellent",
+    "events_template": [
+      {"time":"09:00","title":"Frontend Development","description":"Building user interfaces with React.","visual_prompt":"anime-style frontend developer coding React components, UI designs on screen","media_type":"image","media_url":"https://picsum.photos/seed/fullstack_frontend_dev/400/300"},
+      {"time":"11:00","title":"Backend API Development","description":"Developing RESTful APIs with Node.js and Express.","visual_prompt":"anime-style backend developer coding API endpoints, server architecture diagrams","media_type":"image","media_url":"https://picsum.photos/seed/fullstack_backend_api/400/300"},
+      {"time":"13:00","title":"Database Design","description":"Designing and optimizing database schemas.","visual_prompt":"anime-style full stack developer designing database schema, ER diagrams","media_type":"image","media_url":"https://picsum.photos/seed/fullstack_database_design/400/300"}
+    ],
+    "trends": {
+      "salary": [
+        {"year": 2020, "value": 85000},
+        {"year": 2021, "value": 90000},
+        {"year": 2022, "value": 95000},
+        {"year": 2023, "value": 100000},
+        {"year": 2024, "value": 110000},
+        {"year": 2025, "value": 120000}
+      ],
+      "demand": [
+        {"year": 2020, "value": 80000},
+        {"year": 2021, "value": 85000},
+        {"year": 2022, "value": 90000},
+        {"year": 2023, "value": 95000},
+        {"year": 2024, "value": 100000},
+        {"year": 2025, "value": 105000}
+      ],
+      "security": [
+        {"year": 2020, "value": 88},
+        {"year": 2021, "value": 89},
+        {"year": 2022, "value": 90},
+        {"year": 2023, "value": 91},
+        {"year": 2024, "value": 92},
+        {"year": 2025, "value": 93}
+      ]
+    }
+  }
+}
+
